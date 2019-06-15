@@ -880,16 +880,10 @@ section
   }
 
 #team {
-	padding-top: 10px;
-	padding-bottom: 25px;
-	padding-left: 30px;
-	padding-right: 30px;
-	margin-left: 40px;
-	margin-right: 40px;
 
 
+	display: inline;
 	font-size: 20pt;
-	display: inline-block;
 }
 a, a:hover, a:visited, a:active, a:link
 {
